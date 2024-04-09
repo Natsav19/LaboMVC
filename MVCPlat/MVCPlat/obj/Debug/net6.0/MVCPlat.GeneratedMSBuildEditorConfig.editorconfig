@@ -1,0 +1,73 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MVCPlat
+build_property.RootNamespace = MVCPlat
+build_property.ProjectDir = C:\Users\2233318\Documents\Code\Prog4\LaboMVC\MVCPlat\MVCPlat\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\2233318\Documents\Code\Prog4\LaboMVC\MVCPlat\MVCPlat
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/2233318/Documents/Code/Prog4/LaboMVC/MVCPlat/MVCPlat/Views/Cosplays/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29zcGxheXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2233318/Documents/Code/Prog4/LaboMVC/MVCPlat/MVCPlat/Views/Cosplays/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29zcGxheXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2233318/Documents/Code/Prog4/LaboMVC/MVCPlat/MVCPlat/Views/Cosplays/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29zcGxheXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2233318/Documents/Code/Prog4/LaboMVC/MVCPlat/MVCPlat/Views/Cosplays/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29zcGxheXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2233318/Documents/Code/Prog4/LaboMVC/MVCPlat/MVCPlat/Views/Cosplays/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29zcGxheXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2233318/Documents/Code/Prog4/LaboMVC/MVCPlat/MVCPlat/Views/HelloWorld/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9Xb3JsZFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2233318/Documents/Code/Prog4/LaboMVC/MVCPlat/MVCPlat/Views/HelloWorld/Welcome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9Xb3JsZFxXZWxjb21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2233318/Documents/Code/Prog4/LaboMVC/MVCPlat/MVCPlat/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2233318/Documents/Code/Prog4/LaboMVC/MVCPlat/MVCPlat/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2233318/Documents/Code/Prog4/LaboMVC/MVCPlat/MVCPlat/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2233318/Documents/Code/Prog4/LaboMVC/MVCPlat/MVCPlat/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2233318/Documents/Code/Prog4/LaboMVC/MVCPlat/MVCPlat/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2233318/Documents/Code/Prog4/LaboMVC/MVCPlat/MVCPlat/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2233318/Documents/Code/Prog4/LaboMVC/MVCPlat/MVCPlat/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ch6n22uks5
